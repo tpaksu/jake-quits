@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   height: 100%;
-  background: #ffbb00;
+  background: #ccFF00;
 }
 
 #app {
@@ -110,7 +110,7 @@ div.container {
 }
 .flex .progress.dark {
   background: black;
-  color: #ffbb00;
+  color: #ccFF00;
   padding: 0.5rem;
 }
 @media (min-width: 780px) {
