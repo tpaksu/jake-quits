@@ -10,7 +10,7 @@ const data = {
   dollars: null,
   cents: null,
   dailyCost: 6.375466667,
-  time: 1569369600000 // new Date(2019, 8, 24, 19)
+  time: 1580590800000 // new Date(2020, 2, 1)
 };
 
 const progresses = document.querySelectorAll(".progress[fraction]");
